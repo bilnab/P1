@@ -10,7 +10,7 @@ API CURL de la ressource **TRANSLATOR text:**
 [lien](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/reference/v3-0-detect)  
 
 ## Script:
-un notebook commenté permet:  
+un notebook commenté [lien](https://github.com/bilnab/P1/blob/main/P1%20polyglotte.ipynb) permet:  
 * de se connecter de facon sécurisée au service azure sous contrainte d avoir un compte et des clés de connexion  
 * recuperer la prédiction du service text analytics ou du service translator
 
