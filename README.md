@@ -15,7 +15,7 @@ un notebook commenté permet:
 * recuperer la prédiction du service text analytics ou du service translator
 
 ## Présentation PDF:  
-disponible dans le repo
+[lien](https://github.com/bilnab/P1/blob/main/P1.pdf)
 
 
 
