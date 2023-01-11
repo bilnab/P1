@@ -1,5 +1,6 @@
 # P1
-**AZURE COGNITIVE SERVICES** : mise en oeuvre de la fonction polyglotte d'un chatbot
+**AZURE COGNITIVE SERVICES** :  
+mise en oeuvre de la fonction polyglotte d'un chatbot
 Détection du langage par des modèles pré entrainés du cloud microsoft AZURE
 
 ## Ressources:
