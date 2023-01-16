@@ -1,6 +1,5 @@
-# P1  
- <img src="/img/azure.png" width="150"> <img src="/img/jup.png" width="150"> <img src="/img/chatbot.png" width="150">  
-**Petit projet d'introduction à l'intelligence artificielle**  
+# P1  **Petit projet d'introduction à l'intelligence artificielle** 
+ <img src="/img/azure.png" width="150"> <img src="/img/jup.png" width="150"> <img src="/img/chatbot.png" width="150">   
   
 **AZURE COGNITIVE SERVICES** :    
 mise en oeuvre de la fonction polyglotte d'un chatbot
